@@ -11,6 +11,7 @@ This is a machine learning project that predicts house prices in Nepal.
 - Compares model performance
 
 ## Files in This Project
+- .gitignore = Prevents Git from tracking, staging, or uploading unnecessary files
 - config.py = All settings and constants
 - house_price_prediction.ipynb = Main notebook with all code
 - Housingdataset2020.csv = Raw data
@@ -28,4 +29,4 @@ This is a machine learning project that predicts house prices in Nepal.
 - XGBoost: 79.4% accuracy (BEST)
 
 ## Author
-Dipesh Pandeya
+Dipesh Pandeya 
