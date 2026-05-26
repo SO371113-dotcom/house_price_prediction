@@ -28,4 +28,4 @@ This is a machine learning project that predicts house prices in Nepal.
 - XGBoost: 79.4% accuracy (BEST)
 
 ## Author
-Dipesh Pandeya 
+Dipesh Pandey
