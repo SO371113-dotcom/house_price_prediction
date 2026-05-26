@@ -14,7 +14,6 @@ This is a machine learning project that predicts house prices in Nepal.
 - .gitignore = Prevents Git from tracking, staging, or uploading unnecessary files
 - config.py = All settings and constants
 - house_price_prediction.ipynb = Main notebook with all code
-- Housingdataset2020.csv = Raw data
 - requirements.txt = List of libraries needed
 - README.md = This file
 
