@@ -23,9 +23,9 @@ This is a machine learning project that predicts house prices in Nepal.
 3. Run all cells
 
 ## Results
-- Linear Regression: 59.6% accuracy
-- Random Forest: 79.1% accuracy
-- XGBoost: 79.4% accuracy (BEST)
+- Linear Regression: 59.6% R^2 score
+- Random Forest: 79.1% R^2 score
+- XGBoost: 79.4% R^2 score (BEST)
 
 ## Author
 Dipesh Pandey
