@@ -24,7 +24,7 @@ This is a machine learning project that predicts house prices in Nepal.
 
 ## Results
 - Linear Regression: 59.6% R^2 score
-- Random Forest: 79.1% R^2 score
+- Random Forest: 79.2% R^2 score
 - XGBoost: 79.4% R^2 score (BEST)
 
 ## Author
